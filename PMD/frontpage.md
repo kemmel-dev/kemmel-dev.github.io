@@ -8,7 +8,7 @@ Lisanne van Vliet
 ### Timesheet
 [Here](https://drive.google.com/file/d/16vbNCF_q3IzGurb9on1P3L6PBHfGA7lN/view?usp=sharing) 
 
-### Team contract
+### Collaboration agreement
 [Here](https://docs.google.com/document/d/1IOtXtzKfe6Ccd6-JwKVQ7p1Rina3PR95x5HtRyCkgHs/edit?usp=sharing) 
 
 ### Project plan
