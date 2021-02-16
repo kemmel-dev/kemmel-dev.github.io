@@ -11,6 +11,7 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 
 ### Timesheet
 [Week 1](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/ClockifyReports/Clockify_Report_Week_1.pdf)
+
 [Week 2](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/ClockifyReports/Clockify_Report_Week_2.pdf)
  
 
