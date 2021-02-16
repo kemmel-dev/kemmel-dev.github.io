@@ -5,7 +5,7 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 ### Team members
 1. Lisanne van Vliet (Team leader)
 2. Mathijs Marks (Notulist)
-3. Kamiel de Visser (Gitlab guru)
+3. Kamiel de Visser (Version control)
 4. Sarah Rehman (Secretary)
 5. Timber Rijsdorp (Scrum master)
 
