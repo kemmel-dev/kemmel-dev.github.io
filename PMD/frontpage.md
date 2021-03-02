@@ -10,7 +10,7 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 5. Timber Rijsdorp (Scrum master)
 
 ### Project Plan
-[Here](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Project_plan.pdf)
+[Here](https://docs.google.com/document/d/1MqoueCjSC1eBE4yTebQlX-wkt_6M5wOBUdrHMZa0nnI/edit?usp=sharing)
 
 ### Timesheet
 [Week 1](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/ClockifyReports/Clockify_Report_Week_1.pdf)
