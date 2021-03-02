@@ -9,6 +9,9 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 4. Sarah Rehman (Secretary)
 5. Timber Rijsdorp (Scrum master)
 
+### Project Plan
+[Here](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Project_plan.pdf)
+
 ### Timesheet
 [Week 1](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/ClockifyReports/Clockify_Report_Week_1.pdf)
 
