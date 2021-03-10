@@ -25,4 +25,5 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 
 ### Individual Learning Reports
 [Kamiel](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individual_Learning_Kamiel.pdf)
+
 [Lisanne](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individueel_leerrapport_Lisanne.pdf)
