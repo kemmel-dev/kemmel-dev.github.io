@@ -1,5 +1,5 @@
 # Introduction
-This is a github pages website created for Project Mobile Development, 
+This is a github pages website created for Project Mobile Development,
 a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-2021.
 
 ### Team members
@@ -18,10 +18,11 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 [Week 2](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/ClockifyReports/Clockify_Report_Week_2.pdf)
 
 [Week 3](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/ClockifyReports/Clockify_Report_Week_3.pdf)
- 
+
 
 ### Collaboration agreement
 [Here](https://docs.google.com/document/d/1IOtXtzKfe6Ccd6-JwKVQ7p1Rina3PR95x5HtRyCkgHs/edit?usp=sharing)
 
 ### Individual Learning Reports
 [Kamiel](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individual_Learning_Kamiel.pdf)
+[Lisanne](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individueel_leerrapport_Lisanne.pdf)
