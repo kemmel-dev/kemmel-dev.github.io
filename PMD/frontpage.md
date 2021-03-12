@@ -32,3 +32,5 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 
 [Timber](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individual%20Learning%20Report%20Timber%20Rijsdorp%20v1.pdf)
 
+### Legal contract
+[Here](https://drive.google.com/file/d/12kaFS6x4w8vPcjONQNM4xOs9SKV49WqR/view?usp=sharing)
