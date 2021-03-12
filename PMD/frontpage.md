@@ -4,7 +4,7 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 
 ### Team members
 1. Lisanne van Vliet (Team leader)
-2. Mathijs Marks (Notulist)
+2. Mathijs Marks (Notulist & Assistant Team Lead)
 3. Kamiel de Visser (Version control)
 4. Sarah Rehman (Secretary)
 5. Timber Rijsdorp (Scrum master)
@@ -31,6 +31,8 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 [Sarah](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/individual_Learning_Sarah.pdf)
 
 [Timber](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individual%20Learning%20Report%20Timber%20Rijsdorp%20v1.pdf)
+
+[Mathijs](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individual_Learning_Report_Mathijs_Marks.pdf)
 
 ### Legal contract
 [Here](https://drive.google.com/file/d/12kaFS6x4w8vPcjONQNM4xOs9SKV49WqR/view?usp=sharing)
