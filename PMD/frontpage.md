@@ -4,10 +4,10 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 
 ### Team members
 1. Lisanne van Vliet (Team leader)
-2. Mathijs Marks (Notulist & Assistant Team Lead)
+2. Mathijs Marks (Scrum Master & Assistant Team Lead)
 3. Kamiel de Visser (Version control)
 4. Sarah Rehman (Secretary)
-5. Timber Rijsdorp (Scrum master)
+5. Timber Rijsdorp (Notulist)
 
 ### Project Plan
 [Here](https://docs.google.com/document/d/1MqoueCjSC1eBE4yTebQlX-wkt_6M5wOBUdrHMZa0nnI/edit?usp=sharing)
