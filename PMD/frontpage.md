@@ -27,7 +27,7 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 [Mathijs](https://docs.google.com/document/d/1lEtz3u0MgpmBhpoB_PPyxVM6PcL1MPkafJa6VKtpx6A/edit?usp=sharing)
 
 ### Retrospectives 
-[Here](https://docs.google.com/document/d/1siQFWLt72K9bo9nNk3y2QYtu1bYcgI5M4KqDGw0DRqs/edit?usp=sharing)
+[Sprint 1](https://docs.google.com/document/d/1siQFWLt72K9bo9nNk3y2QYtu1bYcgI5M4KqDGw0DRqs/edit?usp=sharing)
 
 ### Timesheet
 [Week 1](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/ClockifyReports/Clockify_Report_Week_1.pdf)
