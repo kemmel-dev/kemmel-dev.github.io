@@ -9,19 +9,8 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 4. Sarah Rehman (Secretary)
 5. Timber Rijsdorp (Notulist)
 
-<<<<<<< HEAD
 ### Collaboration agreement
 [Here](https://docs.google.com/document/d/1IOtXtzKfe6Ccd6-JwKVQ7p1Rina3PR95x5HtRyCkgHs/edit?usp=sharing)
-=======
-### Project Plan
-[Here](https://docs.google.com/document/d/1MqoueCjSC1eBE4yTebQlX-wkt_6M5wOBUdrHMZa0nnI/edit?usp=sharing)
-
-### Team presentation mid term
-[Here](https://docs.google.com/presentation/d/1XAn3u4Kyz9XS4UIE9geHZvyQga-c3l4E8mGhbdxKu5E/edit?usp=sharing)
-
-### Retrospectives
-[Sprint 1](https://docs.google.com/document/d/1siQFWLt72K9bo9nNk3y2QYtu1bYcgI5M4KqDGw0DRqs/edit?usp=sharing)
->>>>>>> 6c92bafd4aca5362a34078d3d93ceff74528010d
 
 ### Timesheets
 [Week 1](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/ClockifyReports/Clockify_Report_Week_1.pdf)
