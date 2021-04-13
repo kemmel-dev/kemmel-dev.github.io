@@ -15,17 +15,6 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 ### Team presentation mid term
 [Here](https://docs.google.com/presentation/d/1XAn3u4Kyz9XS4UIE9geHZvyQga-c3l4E8mGhbdxKu5E/edit?usp=sharing)
 
-### Team collaboration review
-[Kamiel](https://docs.google.com/document/d/1ZAy1Pa-nDHw9zf74w3N-svEv1fN2dPGqj8bXZzCoPas/edit?usp=sharing)
-
-[Lisanne](https://docs.google.com/document/d/1rTVynQMfZADCscw_HI4nqbkWAHYoVp0LZp3qzWTmc4E/edit?usp=sharing)
-
-[Sarah](https://docs.google.com/document/d/16AYbqpa_2HDd40eC_CWtGIkOpfWp_f_vJgQ-ge62X0M/edit?usp=sharing)
-
-[Timber](https://docs.google.com/document/d/1LEnE6Oac4WkK2hmIS3Z7ji3FrxGzYuZaktigZX38EEY/edit?usp=sharing)
-
-[Mathijs](https://docs.google.com/document/d/1lEtz3u0MgpmBhpoB_PPyxVM6PcL1MPkafJa6VKtpx6A/edit?usp=sharing)
-
 ### Retrospectives
 [Sprint 1](https://docs.google.com/document/d/1siQFWLt72K9bo9nNk3y2QYtu1bYcgI5M4KqDGw0DRqs/edit?usp=sharing)
 
