@@ -12,7 +12,7 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 ### Project Plan
 [Here](https://docs.google.com/document/d/1MqoueCjSC1eBE4yTebQlX-wkt_6M5wOBUdrHMZa0nnI/edit?usp=sharing)
 
-### Team presentation mid term 
+### Team presentation mid term
 [Here](https://docs.google.com/presentation/d/1XAn3u4Kyz9XS4UIE9geHZvyQga-c3l4E8mGhbdxKu5E/edit?usp=sharing)
 
 ### Team collaboration review
@@ -26,7 +26,7 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 
 [Mathijs](https://docs.google.com/document/d/1lEtz3u0MgpmBhpoB_PPyxVM6PcL1MPkafJa6VKtpx6A/edit?usp=sharing)
 
-### Retrospectives 
+### Retrospectives
 [Sprint 1](https://docs.google.com/document/d/1siQFWLt72K9bo9nNk3y2QYtu1bYcgI5M4KqDGw0DRqs/edit?usp=sharing)
 
 ### Timesheet
@@ -43,7 +43,7 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 ### Individual Learning Reports
 [Kamiel](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individual_Learning_Kamiel.pdf)
 
-[Lisanne](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individueel_leerrapport_Lisanne.pdf)
+[Lisanne](https://docs.google.com/document/d/1DaxFpR9BGpU8YabAYBmrv5On3ql2ZA0vHGgV5GEd8Xs/edit?usp=sharing)
 
 [Sarah](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individual_learning_Sarah.pdf)
 
