@@ -51,5 +51,8 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 
 [Mathijs](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individual_Learning_Report_Mathijs_Marks.pdf)
 
+### Peer reports
+[Here (.zip)](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/PeerReviews/Peer_reviews.zip)
+
 ### Legal contract
 [Here](https://drive.google.com/file/d/12kaFS6x4w8vPcjONQNM4xOs9SKV49WqR/view?usp=sharing)
