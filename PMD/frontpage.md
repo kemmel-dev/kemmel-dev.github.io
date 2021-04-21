@@ -23,7 +23,7 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 [Here](https://docs.google.com/document/d/1MqoueCjSC1eBE4yTebQlX-wkt_6M5wOBUdrHMZa0nnI/edit?usp=sharing)
 
 ### Individual learning reports
-[Kamiel](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individual_Learning_Kamiel.pdf)
+[Kamiel](https://docs.google.com/document/d/1MfR6kHcqjy4x47M8RcLtw9_b3f8MBCzXW5KH_SR4zlU/edit?usp=sharing)
 
 [Lisanne](https://docs.google.com/document/d/1DaxFpR9BGpU8YabAYBmrv5On3ql2ZA0vHGgV5GEd8Xs/edit?usp=sharing)
 
