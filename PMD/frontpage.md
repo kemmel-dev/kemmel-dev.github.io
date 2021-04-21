@@ -29,7 +29,7 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 
 [Sarah](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individual_learning_Sarah.pdf)
 
-[Timber](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individual_Learning_Report_Timber_Rijsdorp.pdf)
+[Timber](https://docs.google.com/document/d/1cCK8_saZexv-vCpGco1PjCpZYnLThZ3uUIitegpVswA/edit?usp=sharing)
 
 [Mathijs](https://github.com/kemmel-dev/kemmel-dev.github.io/blob/master/PMD/Reports/IndividualLearningReports/Individual_Learning_Report_Mathijs_Marks.pdf)
 
