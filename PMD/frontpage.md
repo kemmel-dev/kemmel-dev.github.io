@@ -18,6 +18,9 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 ### Project plan
 [Here](https://docs.google.com/document/d/1MqoueCjSC1eBE4yTebQlX-wkt_6M5wOBUdrHMZa0nnI/edit?usp=sharing)
 
+### Notulen 
+[Here](https://docs.google.com/document/d/1hTGgjFQY1U_9YhgwW7Huu27ci2wIIC2dB27EGHwSIk4/edit?usp=sharing)
+
 ### Individual learning reports
 [Kamiel](https://docs.google.com/document/d/1MfR6kHcqjy4x47M8RcLtw9_b3f8MBCzXW5KH_SR4zlU/edit?usp=sharing)
 
