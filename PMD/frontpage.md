@@ -33,7 +33,7 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 [Here](https://drive.google.com/file/d/12kaFS6x4w8vPcjONQNM4xOs9SKV49WqR/view?usp=sharing)
 
 ### Retrospectives
-[All retrospectives](https://docs.google.com/document/d/1siQFWLt72K9bo9nNk3y2QYtu1bYcgI5M4KqDGw0DRqs/edit?usp=sharing)
+[Here](https://docs.google.com/document/d/1siQFWLt72K9bo9nNk3y2QYtu1bYcgI5M4KqDGw0DRqs/edit?usp=sharing)
 
 ### Peer reviews: Team Collaboration mid term 
 [Here](https://drive.google.com/drive/folders/1MjgCjlbfPlp1PqD9m2q683hjkRsGF7Ia?usp=sharing)
