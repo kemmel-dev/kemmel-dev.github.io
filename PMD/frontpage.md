@@ -35,6 +35,9 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 ### Retrospectives
 [Here](https://docs.google.com/document/d/1siQFWLt72K9bo9nNk3y2QYtu1bYcgI5M4KqDGw0DRqs/edit?usp=sharing)
 
+### Sprint Plannings 
+[Here](https://docs.google.com/document/d/1vDofs6kjv-81ATPym5WOsaVzLaiFSCpneqXLdoLBOrA/edit?usp=sharing)
+
 ### Peer reviews: Team Collaboration mid term 
 [Here](https://drive.google.com/drive/folders/1MjgCjlbfPlp1PqD9m2q683hjkRsGF7Ia?usp=sharing)
 
