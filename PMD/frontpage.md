@@ -42,7 +42,7 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 [Here](https://docs.google.com/presentation/d/1XAn3u4Kyz9XS4UIE9geHZvyQga-c3l4E8mGhbdxKu5E/edit?usp=sharing)
 
 ### Peer reviews: Team Collaboration final 
-[Here] (https://drive.google.com/drive/folders/11oaKUs9Fc89VRASDUR3co9P6IwpIlkfz?usp=sharing)
+[Here](https://drive.google.com/drive/folders/11oaKUs9Fc89VRASDUR3co9P6IwpIlkfz?usp=sharing)
 
 ### Presentation final assessment 
 
