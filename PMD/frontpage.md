@@ -35,8 +35,15 @@ a project for the Hogeschool van Amsterdam in semester 2 of the study year 2020-
 ### Retrospectives
 [All retrospectives](https://docs.google.com/document/d/1siQFWLt72K9bo9nNk3y2QYtu1bYcgI5M4KqDGw0DRqs/edit?usp=sharing)
 
-### Peer reviews: Team Collaboration
+### Peer reviews: Team Collaboration mid term 
 [Here](https://drive.google.com/drive/folders/1MjgCjlbfPlp1PqD9m2q683hjkRsGF7Ia?usp=sharing)
 
 ### Presentation midterm review
 [Here](https://docs.google.com/presentation/d/1XAn3u4Kyz9XS4UIE9geHZvyQga-c3l4E8mGhbdxKu5E/edit?usp=sharing)
+
+### Peer reviews: Team Collaboration final 
+[Here] (https://drive.google.com/drive/folders/11oaKUs9Fc89VRASDUR3co9P6IwpIlkfz?usp=sharing)
+
+### Presentation final assessment 
+
+
